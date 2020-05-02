@@ -1,0 +1,15 @@
+
+img {
+	display: inline-flex;
+	height: 47vh;
+	width: 31%;
+	margin: 1%;
+	object-fit: cover;	
+}
+
+#container {
+	display: block;
+	width: 100%;
+	margin-bottom: 300px;
+}
+
